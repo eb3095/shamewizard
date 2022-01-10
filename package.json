@@ -1,0 +1,31 @@
+{
+  "name": "shamewizard",
+  "version": "1.0.0",
+  "description": "A bot that shames users for bad behavior",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eb3095/shamewizard.git"
+  },
+  "keywords": [
+    "reddit",
+    "bot",
+    "shame",
+    "wizard",
+    "shamewizard"
+  ],
+  "author": "eb3095",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eb3095/shamewizard/issues"
+  },
+  "homepage": "https://github.com/eb3095/shamewizard#readme",
+  "dependencies": {
+    "snoostorm": "^1.1.2",
+    "snoowrap": "^1.19.0"
+  }
+}

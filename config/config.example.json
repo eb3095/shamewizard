@@ -1,0 +1,20 @@
+{
+  "redditCredentials": {
+    "appID": "",
+    "appSecret": "",
+    "userAgent": "ShameWizard/{version} by eb3095",
+    "username": "",
+    "password": ""
+  },
+  "bot": {
+    "cooldown": 600,
+    "message": [
+      "The user {{USERNAME}} is currently being shamed for a very naguhty comment! I, the mighty SHAME WIZARD, am here to instill a healthy dose of sweet self-loathing shame for their extracurricular activities.",
+      "See, this particular person has decided to spread their hate and filth across the internet and I am here to instill a little... shame. Would you like to see what they said?",
+      ">{{COMMENT}}",
+      "{{USERNAME}} - {{URL}}",
+      "*I do not respond to 'bad bot' or 'good bot'. I do not care about your petty internet points. I am simply here to steer you right and shine a naked light on all the horrid things you do.*"
+    ]
+  },
+  "debugMode": true
+}
